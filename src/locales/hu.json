@@ -1,0 +1,18 @@
+{
+  "about": {
+    "btn": {
+      "add": "Hozzáad",
+      "reset": "Visszaállít"
+    },
+    "counter": "Számláló",
+    "double": "Duplán",
+    "title": "Ez az \"about\" oldal"
+  },
+  "app": {
+    "about": "Rólunk",
+    "home": "Kezdőlap"
+  },
+  "home": {
+    "msg": "Üdvözöllek a {msg} appodon"
+  }
+}

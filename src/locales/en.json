@@ -1,0 +1,18 @@
+{
+  "about": {
+    "btn": {
+      "add": "Add",
+      "reset": "Reset"
+    },
+    "counter": "Counter",
+    "double": "Double",
+    "title": "This is an about page"
+  },
+  "app": {
+    "about": "About",
+    "home": "Home"
+  },
+  "home": {
+    "msg": "Welcome to Your {msg} App"
+  }
+}
